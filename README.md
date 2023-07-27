@@ -7,6 +7,7 @@
    Create a web application that allows users to view live data updates on charts.
 
 ### Assignment:
+
 •	User can see the population of each state in India.
 •	Whenever the value of any state updates so user can be able see the updation value.
 •	User can see the chart in different ways like pie chart,line chart,bar chart,etc.
