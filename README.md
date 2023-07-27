@@ -23,7 +23,8 @@
 
 ### 3.Pie Chart
 !(![image](https://github.com/sidalchewar/LiveChart/assets/117507571/ad4a4c34-42bb-4a63-ad1f-5f1d303f988a))
-!(![image](https://github.com/sidalchewar/LiveChart/assets/117507571/037fb214-4244-4b0c-a69a-72ab10bdb021)
+!(![image](https://github.com/sidalchewar/LiveChart/assets/117507571/7bf29c6b-eecd-4bdf-957d-a160649511e6)
+
 )
 
  
